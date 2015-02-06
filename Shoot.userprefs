@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\newStart.cs">
+    <Files>
+      <File FileName="Assets\scripts\newStart.cs" Line="11" Column="2" />
+      <File FileName="Assets\scripts\FireBullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\BulletControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\BossControl.cs" Line="1" Column="1" />
+      <File FileName="D:\New Unity Project\Assets\Scripts\EnemyCollision.cs" Line="1" Column="1" />
+      <File FileName="..\..\Desktop\unity-ads-demo-master (1)\unity-ads-demo-master\Assets\DemoApp\Scripts\loader\LoaderTouchesController.cs" Line="1" Column="1" />
+      <File FileName="D:\New Unity Project\Assets\Scripts\ShootBoom.cs" Line="1" Column="1" />
+      <File FileName="D:\New Unity Project\Assets\Scripts\MoveEnemy.cs" Line="1" Column="1" />
+      <File FileName="D:\New Unity Project\Assets\Scripts\FireBoom.cs" Line="1" Column="1" />
+      <File FileName="D:\New Unity Project\Assets\Scripts\DestoryParticle.cs" Line="1" Column="1" />
+      <File FileName="D:\New Unity Project\Assets\Scripts\BoomControl.cs" Line="1" Column="1" />
+      <File FileName="D:\New Unity Project\Assets\Scripts\AdManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Scene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\UnityAds\Scripts\Advertisement.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
